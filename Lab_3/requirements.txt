@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+cachetools
+stomp.py==8.1.0
